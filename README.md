@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT-Projekte:</h2>
 
 - <b>osTicket (Helpdesk-Ticketsystem)</b>
-  - [osTicket: Voraussetzungen und Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Voraussetzungen und Installation](https://github.com/Rajan-IT/osTicket-Voraussetzungen-und-Installation)
   - [osTicket: Konfiguration nach der Installation](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Beispiele ](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
