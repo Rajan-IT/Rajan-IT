@@ -4,8 +4,8 @@
 
 - <b>osTicket (Helpdesk-Ticketsystem)</b>
   - [osTicket: Voraussetzungen und Installation](https://github.com/Rajan-IT/osTicket-Voraussetzungen-und-Installation)
-  - [osTicket: Konfiguration nach der Installation](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Beispiele ](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Konfiguration nach der Installation](https://github.com/Rajan-IT/Konfiguration-nach-der-Installation)
+    
 - <b>Microsoft Azure</b>
   - [Konfiguration des lokalen Active Directory in Azure-VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Netzwerksicherheitsgruppen (NSGs) und Überprüfung von Netzwerkprotokollen](https://github.com/joshmadakorcc/azure-network-protocols)
