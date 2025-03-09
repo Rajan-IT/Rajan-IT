@@ -8,7 +8,7 @@
     
 - <b>Active Directory</b>
   - [Active Directory Installation und Domain Server erstellung](https://github.com/Rajan-IT/AD-Installation)
-  - [Netzwerksicherheitsgruppen (NSGs) und Überprüfung von Netzwerkprotokollen](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Mehrere Benutzern mit Powershell](https://github.com/Rajan-IT/Benutzer-mit-Powershell)
 
 <h2>🤳Connect with me:</h2>
 
