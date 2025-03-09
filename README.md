@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT-Projekte:</h2>
 
 - <b>osTicket (Helpdesk-Ticketsystem)</b>
-  - [osTicket: Voraussetzungen und Installation](https://github.com/Rajan-IT/osTicket-Voraussetzungen-und-Installation)
+  - [osTicket: Voraussetzungen und Installation](https://github.com/Rajan-IT/AD-Installation)
   - [osTicket: Konfiguration nach der Installation](https://github.com/Rajan-IT/Konfiguration-nach-der-Installation)
     
 - <b>Active Directory</b>
