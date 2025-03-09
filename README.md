@@ -8,7 +8,7 @@
     
 - <b>Active Directory</b>
   - [Active Directory Installation und Domain Server erstellung](https://github.com/Rajan-IT/AD-Installation)
-  - [Mehrere Benutzern mit Powershell](https://github.com/Rajan-IT/Benutzer-mit-Powershell)
+  - [Mehrerer Benutzern mit Powershell](https://github.com/Rajan-IT/Benutzer-mit-Powershell)
 
 <h2>🤳Connect with me:</h2>
 
