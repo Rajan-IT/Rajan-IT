@@ -9,6 +9,7 @@
 - <b>Active Directory</b>
   - [Active Directory Installation und Domain Server erstellung](https://github.com/Rajan-IT/AD-Installation)
   - [Mehrerer Benutzern mit Powershell](https://github.com/Rajan-IT/Benutzer-mit-Powershell)
+  - [Erstellen und Anwenden von Gruppenrichtlinien in der Domäne](https://github.com/Rajan-IT/Group-Policy)
 
 <h2>🤳Connect with me:</h2>
 
